@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @omona5
 - 👀 I’m interested in #cloud_microphysics #numerical_weather_prediction
 #computational_fluid_dynamics #FORTRAN_programming
-- 🌱 I’m currently learning #c#_programming
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me <dgoh313@gmail.com>
 
 <!---
